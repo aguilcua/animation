@@ -76,7 +76,7 @@ class Frog {
       ),
     };
     this.direction = "down";
-    this.animator = this.animations.idleDown;
+    this.animator = this.animations.idledown;
 
     this.x = 450;
     this.y = 450;
